@@ -22,8 +22,4 @@
       <ProjectReference Include="..\Programs\Programs.csproj" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Folder Include="Exercise2" />
-    </ItemGroup>
-
 </Project>
