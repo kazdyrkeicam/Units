@@ -1,6 +1,4 @@
-# Units
-
-## Zadania na zaliczenie przedmiotu Test Automation 2023
+# Zadania na zaliczenie przedmiotu Test Automation 2023
 
 ## Struktura projektu
 
@@ -10,3 +8,5 @@
 - `/UnitTests/` 
   - zawiera foldery zatutyłowane numerem zadania
   - wewnątrz znajdują się potrzebne testy programów
+- `/Programs/MainClass.cs`
+  - Zawiera jedynie pustą metode Main
